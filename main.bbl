@@ -1,20 +1,29 @@
 \begin{thebibliography}{1}
 
-\bibitem{zhoufeiyan}
-周飞燕, 金林鹏, and 董军.
-\newblock 卷积神经网络研究综述.
-\newblock {\em 计算机学报}, (6).
+\bibitem{wiki}
+Finger print.
+\newblock {\em Wikipedia}.
 
-\bibitem{Harrington2013}
-Peter Harrington.
-\newblock {\em 机器学习实战}.
-\newblock 2013.
+\bibitem{devidefingerpeint}
+RSIP.
+\newblock Fingerprint segmentation using deep learningfingerprint segmentation
+  using deep learning.
+\newblock {\em Internet}.
 
-\bibitem{long2018textsnake}
-Shangbang Long, Jiaqiang Ruan, Wenjie Zhang, Xin He, Wenhao Wu, and Cong Yao.
-\newblock Textsnake: A flexible representation for detecting text of arbitrary
-  shapes.
-\newblock In {\em Proceedings of the European Conference on Computer Vision
-  (ECCV)}, pages 20--36, 2018.
+\bibitem{origin}
+刘毅.
+\newblock
+  生物识别——打开人类识别自我的新纪元——生物识别技术的起源发展和前景.
+\newblock {\em 中国公共安全}.
+
+\bibitem{littefingerprint}
+张永良, 周冰, 詹小四, and 卢天培 裘晓光.
+\newblock 基于深度学习的小面积指纹匹配方法.
+\newblock {\em Journal of Computer Applications}.
+
+\bibitem{TinghuaUniversity}
+清华大学冯建江.
+\newblock 指纹识别现状与研究进展报告.
+\newblock {\em 雷锋网}.
 
 \end{thebibliography}
